@@ -1,0 +1,2 @@
+# Gitui
+Lightweight Git management. 
